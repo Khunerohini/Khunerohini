@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Rohini Khune
 
-<!--
-**Khunerohini/Khunerohini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Engineer | Python Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 Electronics and Computer Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Python, SQL, and Web Technologies.
+
+🌱 Currently learning Data Structures & Algorithms.
+
+
+## 💻 Technical Skills
+
+### Programming Languages
+- Python
+- SQL
+- Java (Basics)
+
+### Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Concepts
+- Object-Oriented Programming (OOP)
+- DBMS
+- Data Analytics
+
+
+
+## 📜 Certifications
+
+- Python Full Stack Development – Naresh i Technologies
+- SQL – Microsoft
+- Data Analytics Essentials – Cisco Networking Academy
+- TCS iON Career Edge – Young Professional
+
+
+## 🎯 Career Objective
+
+Seeking an entry-level Software Engineer position where I can apply my technical skills, contribute to innovative projects, and continue learning as a software developer.
+
+
+
+## 📫 Connect With Me
+
+- 📧 Email: khunerohini81@gamil.com
+- 💼 LinkedIn: https://linkedin.com/in/rohini-khune
+- 💻 GitHub: https://github.com/Khunerohini
+
+⭐ Thank you for visiting my profile!
